@@ -72,7 +72,7 @@ button {
   padding: 10px;
   background-color: #161619;
 }
-.interests-container > p {
+.interests-container > ul {
   font-size: 13px;
 }
 .interests-container > h3 {

@@ -3,9 +3,10 @@ export default function About() {
     <div className="about-container">
       <h3>About</h3>
       <p>
-        Feel free to reach out to me via LinkedIn or email. I am open to
-        networking, discussing potential projects, or answering any questions
-        you may have. I look forward to connecting with professionals in the
+        Hello there! I am Nadun Weerakkody, a driven and ambitious undergraduate
+        with a passion for entrepreneurship. I believe that every great journey
+        begins with a single step, and I am taking mine by pursuing my academic
+        and business aspirations simultaneously
       </p>
     </div>
   );

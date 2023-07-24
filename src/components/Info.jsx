@@ -11,8 +11,20 @@ export default function Info() {
       <h1>Nadun Weerakkody</h1>
       <p>Intern DevOps Engineer</p>
       <div className="button-container">
-        <button className="email-button">E-mail</button>
-        <button className="linedin-button">LinkedIn</button>
+        <a
+          href="mailto:weerakkody.kn@gmail.com"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <button className="email-button">E-mail</button>
+        </a>
+        <a
+          href="https://www.linkedin.com/in/nadunweerakkody/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <button className="linedin-button">LinkedIn</button>
+        </a>
       </div>
     </dev>
   );
